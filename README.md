@@ -48,7 +48,7 @@ Intrusion Detection System using ML models trained on CIC-IDS2017 dataset.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+<a href="www.linkedin.com/in/sammmikshapatil"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
 <a href="mailto:patilsamiksha179@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
 <a href="https://instagram.com/samikshaaa2907"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
 </p>

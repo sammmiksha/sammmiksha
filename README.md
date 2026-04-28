@@ -1,42 +1,41 @@
-<h1 align="center">Hi 👋, I'm Samiksha</h1>
-<h3 align="center">BSc IT Student | AI & Security Systems Builder</h3>
+<h1 align="center">Hi, I'm Samiksha 👋</h1>
+<h3 align="center">BSc IT Student • AI • Cybersecurity • Backend Systems</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Pursuing Bachelor of Science in Information Technology  
-- 🛡️ Building **EduShield** – AI-powered Plagiarism & AI Content Detection System  
-- 🔐 Developing **Shield AI** – Machine Learning based Intrusion Detection System  
-- 🧠 Passionate about Artificial Intelligence, Machine Learning & Cybersecurity  
-- ⚙️ Focused on building scalable, real-world backend systems  
+I am an Information Technology student focused on building practical, real-world systems using AI and backend technologies. My work centers around solving problems in academic integrity and cybersecurity.
+
+* 🎓 BSc IT student
+* 🧠 Exploring Artificial Intelligence & Machine Learning
+* 🔐 Interested in Cybersecurity and system design
+* ⚙️ Building scalable backend-driven applications
 
 ---
 
-## 🛠️ Tech Stack
+## Current Work
+
+* 🛡️ **EduShield**
+  AI-powered platform for plagiarism detection and AI-generated content analysis with role-based workflows.
+
+* 🔐 **Shield AI**
+  Intrusion Detection System using machine learning models trained on CIC-IDS2017 dataset.
+
+* 🌐 **SevaSetu v2**
+  Volunteer and help-matching platform with improved UI, authentication, and deployment.
+
+---
+
+## Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,react,fastapi,postgres,aws,tailwind,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,react,fastapi,postgres,aws,tailwind,c,cpp" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🛡️ EduShield
-AI-driven academic integrity platform with:
-- Role-based authentication (Student / Faculty)
-- AI-generated content detection
-- Plagiarism checking
-- AWS S3 file storage
-- PostgreSQL database integration
-
-### 🔐 Shield AI
-Intrusion Detection System using ML models trained on CIC-IDS2017 dataset.
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sammmiksha&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -45,10 +44,16 @@ Intrusion Detection System using ML models trained on CIC-IDS2017 dataset.
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 <p align="left">
-<a href="www.linkedin.com/in/sammmikshapatil"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-<a href="mailto:patilsamiksha179@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-<a href="https://instagram.com/samikshaaa2907"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="https://www.linkedin.com/in/sammmikshapatil">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  </a>
+  <a href="mailto:patilsamiksha179@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  </a>
+  <a href="https://instagram.com/samikshaaa2907">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+  </a>
 </p>

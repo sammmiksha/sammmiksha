@@ -24,6 +24,7 @@ I am an Information Technology student focused on building practical, real-world
 
 * 🌐 **SevaSetu v2**
   Volunteer and help-matching platform with improved UI, authentication, and deployment.
+  https://seva-setu-9a8e3.web.app/
 
 ---
 

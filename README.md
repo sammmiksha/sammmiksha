@@ -60,8 +60,14 @@ Machine learning-based IDS using the **CIC-IDS2017 dataset** to detect threats l
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammmiksha&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammmiksha&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+### Dashboard
+![Dashboard](https://github.com/user-attachments/assets/319615cb-6b19-4e2e-9957-4b677bea8d73)
+
+### Analysis
+![Analysis](https://github.com/user-attachments/assets/489483c2-10df-4bb8-bb2a-49bd7f7e765a)
+
+### Profile
+![Profile](https://github.com/user-attachments/assets/43228c54-0020-4fb8-a3b0-079956508998)
 </p>
 
 ---

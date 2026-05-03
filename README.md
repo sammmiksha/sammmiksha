@@ -1,33 +1,37 @@
 <h1 align="center">Hi, I'm Samiksha 👋</h1>
-<h3 align="center">BSc IT Student • AI • Backend Systems • Cybersecurity</h3>
+<h3 align="center">AI • Backend Systems • Cybersecurity</h3>
+
+<p align="center">
+  <a href="https://stock-analysis-2f871.web.app">🌐 Live Demo</a> •
+  <a href="https://www.linkedin.com/in/sammmikshapatil">LinkedIn</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I’m an Information Technology student focused on building **real-world, production-ready systems** using AI, backend engineering, and modern web technologies.
+I build **real-world, production-ready applications** combining AI, backend systems, and modern web technologies.
 
-I specialize in:
-
-* ⚙️ Backend-driven architectures (FastAPI, APIs, system design)
-* 🧠 AI-powered applications (analysis, detection systems)
-* 🔐 Security-oriented platforms and problem-solving
+* 🎓 BSc IT Student
+* 🧠 Focused on AI + Backend Engineering
+* 🔐 Interested in Cybersecurity & System Design
+* ⚙️ Strong in building scalable full-stack systems
 
 ---
 
-## ✅ Completed Projects
+## 🏆 Featured Projects
 
 ### 🛡️ EduShield (Final Year Project)
 
-AI-powered academic integrity platform for **plagiarism detection and AI-generated content analysis**, with role-based workflows for students and faculty.
+AI-powered platform for plagiarism detection and AI-generated content analysis with role-based workflows.
 
-🔗 (Add your deployed link here)
+🔗 *Add your link here*
 
 ---
 
 ### 📊 StockAI
 
-Full-stack stock analysis platform delivering **real-time insights, technical indicators, and AI-generated BUY / SELL / HOLD signals**.
+Full-stack stock analysis platform with real-time data, technical indicators, and AI-based trading signals.
 
 🔗 https://stock-analysis-2f871.web.app
 
@@ -35,40 +39,48 @@ Full-stack stock analysis platform delivering **real-time insights, technical in
 
 ### 🌐 SevaSetu v2
 
-A volunteer and help-matching platform with authentication, improved UI, and deployment.
+Volunteer and help-matching platform with authentication and deployment.
 
 🔗 https://seva-setu-9a8e3.web.app/
 
 ---
 
-## 🔬 Ongoing / Future Work
+## 🔬 Ongoing Work
 
-### 🔐 Shield AI (Intrusion Detection System)
+### 🔐 Shield AI
 
-Machine learning-based IDS using the **CIC-IDS2017 dataset** to detect threats like DoS and malicious traffic patterns.
+Intrusion Detection System using machine learning (CIC-IDS2017 dataset) to detect network threats.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,fastapi,postgres,aws,tailwind,c,cpp,github,figma,canva,css,flutter,java,vite" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,fastapi,postgres,aws,tailwind,cpp,c,css,java,vite,raspberrypi,firebase,render,canva,capcut" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sammmiksha&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammmiksha&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammmiksha&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sammmiksha&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 📬 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sammmikshapatil">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>

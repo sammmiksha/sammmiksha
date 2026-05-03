@@ -2,7 +2,6 @@
 <h3 align="center">AI • Backend Systems • Cybersecurity</h3>
 
 <p align="center">
-  <a href="https://stock-analysis-2f871.web.app">🌐 Live Demo</a> •
   <a href="https://www.linkedin.com/in/sammmikshapatil">LinkedIn</a>
 </p>
 
@@ -25,7 +24,7 @@ I build **real-world, production-ready applications** combining AI, backend syst
 
 AI-powered platform for plagiarism detection and AI-generated content analysis with role-based workflows.
 
-🔗 *Add your link here*
+
 
 ---
 

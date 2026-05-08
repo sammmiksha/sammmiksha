@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sammmikshapatil">LinkedIn</a>
+  <a href="https://samiksha-portfolio.web.app/">Portfolio</a>
 </p>
 
 ---

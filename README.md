@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samiksha 👋</h1>
-<h3 align="center">AI • Backend Systems • Cybersecurity</h3>
+<h3 align="center">AI • Backend Systems </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sammmikshapatil">LinkedIn</a>

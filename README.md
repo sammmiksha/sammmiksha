@@ -1,90 +1,87 @@
-<h1 align="center">Hi, I'm Samiksha 👋</h1>
-<h3 align="center">AI • Backend Systems </h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sammmikshapatil">LinkedIn</a>
-  <a href="https://samiksha-portfolio.web.app/">Portfolio</a>
-</p>
+# Samiksha Patil
 
----
+**Full-Stack Developer · Backend-Focused · AI-Integrated Systems**
 
-## 🚀 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://samiksha-portfolio.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammmikshapatil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sammmiksha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patilsamiksha179@gmail.com)
 
-I build **real-world, production-ready applications** combining AI, backend systems, and modern web technologies.
-
-* 🎓 BSc IT Student
-* 🧠 Focused on AI + Backend Engineering
-* 🔐 Interested in Cybersecurity & System Design
-* ⚙️ Strong in building scalable full-stack systems
+</div>
 
 ---
 
-## 🏆 Featured Projects
-
-### 🛡️ EduShield (Final Year Project)
-
-AI-powered platform for plagiarism detection and AI-generated content analysis with role-based workflows.
-
-
+BSc IT graduate from Mumbai University (CGPI 9.15) building production-ready applications at the intersection of AI, backend systems, and modern web. Currently deepening expertise in NLP engineering and large language models.
 
 ---
 
-### 📊 StockAI
+## Featured Projects
 
-Full-stack stock analysis platform with real-time data, technical indicators, and AI-based trading signals.
+### 🛡️ EduShield — AI-Powered Academic Integrity Platform
+`React.js` `FastAPI` `PostgreSQL` `AWS S3` &nbsp;|&nbsp; [GitHub](https://github.com/sammmiksha/edushield)
 
-🔗 https://stock-analysis-2f871.web.app
-
----
-
-### 🌐 SevaSetu v2
-
-Volunteer and help-matching platform with authentication and deployment.
-
-🔗 https://seva-setu-9a8e3.web.app/
+A full-stack platform for automated plagiarism detection and AI-generated content analysis. Built role-based dashboards for students and faculty, RESTful APIs with FastAPI, a PostgreSQL schema covering assignment workflows and document metadata, and cloud document pipelines via AWS S3.
 
 ---
 
-## 🔬 Ongoing Work
+### 📈 StockAI — Stock Market Analysis Platform
+`React.js` `FastAPI` `Firebase` &nbsp;|&nbsp; [Live](https://stock-analysis-2f871.web.app/) &nbsp;·&nbsp; [GitHub](https://github.com/sammmiksha/StockAI)
 
-### 🔐 Shield AI
-
-Intrusion Detection System using machine learning (CIC-IDS2017 dataset) to detect network threats.
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,fastapi,postgres,aws,tailwind,cpp,c,css,java,vite,raspberrypi,firebase,render,canva,capcut" />
-</p>
+Real-time stock analysis platform integrating multiple financial APIs with interactive charting dashboards and AI-based trading signals. Firebase handles auth and data persistence; FastAPI backend includes rate-limit handling, API validation, and structured error management.
 
 ---
 
-## 📊 GitHub Activity
+### 📓 NoteBloom — Study Notebook Web App
+`HTML5` `CSS3` `Vanilla JavaScript` &nbsp;|&nbsp; [Live](https://sammmiksha.github.io/notebloom/) &nbsp;·&nbsp; [GitHub](https://github.com/sammmiksha/notebloom)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammmiksha&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammmiksha&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+*CS50x Final Project* — A browser-based PWA with multi-notebook management, persistent local storage, and a fully customisable writing environment (font selection, paper styles, ink colours, theme switching). Zero external dependencies, deployed on GitHub Pages.
 
 ---
 
-## 📈 Contribution Graph
+### 🤝 SevaSetu v2 — Volunteer & Resource Management Platform
+`React.js` `Firebase` &nbsp;|&nbsp; [Live](https://seva-setu-9a8e3.web.app/) &nbsp;·&nbsp; [GitHub](https://github.com/sammmiksha/SevaSetu-v2)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sammmiksha&theme=tokyo-night" />
-</p>
+*Hack@Skill · Google Solution Challenge* — Volunteer coordination and resource allocation platform built end-to-end as a two-member team under hackathon constraints, with Firebase real-time sync and dynamic frontend architecture.
 
 ---
 
-## 📬 Connect
+## Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sammmikshapatil">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
-  </a>
-  <a href="mailto:patilsamiksha179@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,firebase,aws,tailwind,js,html,css,git,vscode" />
+</div>
+
+<br/>
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · JavaScript · SQL · Java · C# · C++ |
+| **Frontend** | React.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap |
+| **Backend & APIs** | FastAPI · REST APIs · JWT Authentication |
+| **Databases & Cloud** | PostgreSQL · Firebase · SQL Server · AWS S3 |
+| **AI / ML** | Plagiarism Detection · AI-Content Analysis · Scikit-learn · Classification Models |
+| **Deployment** | Vercel · Render · Firebase Hosting · GitHub Pages |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sammmiksha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="155"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammmiksha&theme=tokyonight&hide_border=true" height="155"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sammmiksha&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## Education & Certifications
+
+**BSc Information Technology** — Mumbai University &nbsp;·&nbsp; CGPI 9.15 &nbsp;·&nbsp; Sem 6 GPA: 9.8
+
+**CS50x: Introduction to Computer Science** — Harvard University ✓

@@ -1,53 +1,86 @@
 <div align="center">
 
-# Samiksha Patil
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b39ddb,e091c0,90caf9&height=140&section=header&text=Samiksha%20Patil&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=full-stack%20developer%20%C2%B7%20backend-focused%20%C2%B7%20ai-integrated%20systems&descAlignY=78&descSize=13" />
 
-**Full-Stack Developer · Backend-Focused · AI-Integrated Systems**
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c5cbf?style=flat-square&logo=vercel&logoColor=white)](https://sammmiksha.github.io/samiksha-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammmikshapatil)
+[![GitHub](https://img.shields.io/badge/GitHub-2d1f5e?style=flat-square&logo=github&logoColor=white)](https://github.com/sammmiksha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:patilsamiksha179@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-20280B?style=flat&logo=vercel&logoColor=DEC59E)](https://sammmiksha.github.io/samiksha-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammmikshapatil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sammmiksha)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patilsamiksha179@gmail.com)
+BSc IT graduate from Mumbai University **(CGPI 9.15)** building production-ready apps at the intersection of AI, backend systems, and modern web. Currently deepening expertise in NLP engineering and large language models.
 
 </div>
 
 ---
 
-BSc IT graduate from Mumbai University (CGPI 9.15) building production-ready applications at the intersection of AI, backend systems, and modern web. Currently deepening expertise in NLP engineering and large language models.
-
----
-
-## Featured Projects
+## ✨ featured projects
 
 ### 🛡️ EduShield — AI-Powered Academic Integrity Platform
-`React.js` `FastAPI` `PostgreSQL` `AWS S3` &nbsp;|&nbsp; [GitHub](https://github.com/sammmiksha/edushield)
+> `React.js` · `FastAPI` · `PostgreSQL` · `AWS S3` · `RoBERTa / HuggingFace`
 
-A full-stack platform for automated plagiarism detection and AI-generated content analysis. Built role-based dashboards for students and faculty, RESTful APIs with FastAPI, a PostgreSQL schema covering assignment workflows and document metadata, and cloud document pipelines via AWS S3.
+Full-stack platform for automated plagiarism detection and AI-generated content analysis. Role-based dashboards for students and faculty, RESTful APIs with FastAPI, a PostgreSQL schema covering assignment workflows, and cloud document pipelines via AWS S3.
+
+[![GitHub](https://img.shields.io/badge/GitHub-ede9fb?style=flat-square&logo=github&logoColor=4a36a0)](https://github.com/sammmiksha/edushield)
 
 ---
 
 ### 📈 StockAI — Stock Market Analysis Platform
-`React.js` `FastAPI` `Firebase` &nbsp;|&nbsp; [Live](https://stock-analysis-2f871.web.app/) &nbsp;·&nbsp; [GitHub](https://github.com/sammmiksha/StockAI)
+> `React.js` · `FastAPI` · `Firebase`
 
-Real-time stock analysis platform integrating multiple financial APIs with interactive charting dashboards. Firebase handles auth and data persistence; FastAPI backend includes rate-limit handling, API validation, and structured error management.
+Real-time stock analysis integrating multiple financial APIs with interactive charting dashboards. Firebase handles auth and data persistence; FastAPI backend includes rate-limit handling, API validation, and structured error management.
+
+[![Live](https://img.shields.io/badge/Live-e8f1fb?style=flat-square&logo=vercel&logoColor=1a5fa0)](https://stock-analysis-2f871.web.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-ede9fb?style=flat-square&logo=github&logoColor=4a36a0)](https://github.com/sammmiksha/StockAI)
+
+---
+
+### 📸 FilmFare — Retro Digital Photobooth
+> `React` · `Vite` · `Fabric.js` · `WebRTC` · `HTML5 Canvas`
+
+Browser-based digital photobooth built for the nostalgic at heart. Capture photos from your webcam, layer stickers and text, apply retro-themed layouts (Polaroid, Digicam, Film Strip), and export in PNG / JPEG / WEBP — all without leaving the browser. No installs. No accounts. Just vibes.
+
+[![Live](https://img.shields.io/badge/Live-e8f1fb?style=flat-square&logo=vercel&logoColor=1a5fa0)](https://sammmiksha.github.io/FlimFare/)
+[![GitHub](https://img.shields.io/badge/GitHub-ede9fb?style=flat-square&logo=github&logoColor=4a36a0)](https://github.com/sammmiksha/FlimFare)
+
+---
+
+### 🔍 PostMortem AI — Incident Intelligence Engine
+> `React` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Ollama` · `Qwen2.5:3B`
+
+AI-powered incident analysis tool that turns raw incident submissions into structured, actionable reports — entirely local, no cloud LLM dependency. Built with a FastAPI backend, PostgreSQL storage via SQLAlchemy, and a local Ollama LLM (Qwen2.5:3B) for on-device inference.
+
+[![GitHub](https://img.shields.io/badge/GitHub-ede9fb?style=flat-square&logo=github&logoColor=4a36a0)](https://github.com/sammmiksha/PostMortemAI)
 
 ---
 
 ### 📓 NoteBloom — Study Notebook Web App
-`HTML5` `CSS3` `Vanilla JavaScript` &nbsp;|&nbsp; [Live](https://sammmiksha.github.io/notebloom/) &nbsp;·&nbsp; [GitHub](https://github.com/sammmiksha/notebloom)
+> `HTML5` · `CSS3` · `Vanilla JavaScript` · `IndexedDB` · `PWA`
 
 *CS50x Final Project* — Browser-based notebook with multi-notebook management, persistent local storage, and a fully customisable writing environment (font selection, paper styles, ink colours, theme switching). Zero external dependencies, deployed on GitHub Pages.
 
+[![Live](https://img.shields.io/badge/Live-e8f1fb?style=flat-square&logo=vercel&logoColor=1a5fa0)](https://sammmiksha.github.io/notebloom/)
+[![GitHub](https://img.shields.io/badge/GitHub-ede9fb?style=flat-square&logo=github&logoColor=4a36a0)](https://github.com/sammmiksha/notebloom)
+
 ---
 
-### 🤝 SevaSetu v2 — Volunteer & Resource Management Platform
-`React.js` `Firebase` &nbsp;|&nbsp; [Live](https://seva-setu-9a8e3.web.app/) &nbsp;·&nbsp; [GitHub](https://github.com/sammmiksha/SevaSetu-v2)
+### 🤝 SevaSetu v2 — Volunteer & Resource Management
+> `React.js` · `Firebase`
 
 *Hack@Skill · Google Solution Challenge* — Volunteer coordination and resource allocation platform built end-to-end as a two-member team under hackathon constraints, with Firebase real-time sync and dynamic frontend architecture.
 
+[![Live](https://img.shields.io/badge/Live-e8f1fb?style=flat-square&logo=vercel&logoColor=1a5fa0)](https://seva-setu-9a8e3.web.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-ede9fb?style=flat-square&logo=github&logoColor=4a36a0)](https://github.com/sammmiksha/SevaSetu-v2)
+
 ---
 
-## Tech Stack
+## 🌱 open source contributions
+
+- **CrewAI / LangGraph** — Pytest suite refactoring; improved test isolation and modular structure (Issue [#93](https://github.com/crewAIInc/crewAI/issues/93))
+- **SketchLogic** — Argparse CLI improvements for better developer ergonomics
+
+---
+
+## 🛠️ tech stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,firebase,aws,tailwind,js,html,css,git,vscode" />
@@ -55,18 +88,18 @@ Real-time stock analysis platform integrating multiple financial APIs with inter
 
 <br/>
 
-| Area | Technologies |
+| area | technologies |
 |---|---|
 | **Languages** | Python · JavaScript · SQL · Java · C# · C++ |
 | **Frontend** | React.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap |
 | **Backend & APIs** | FastAPI · REST APIs · JWT Authentication |
 | **Databases & Cloud** | PostgreSQL · Firebase · SQL Server · AWS S3 |
-| **AI / ML** | Plagiarism Detection · AI-Content Analysis · Scikit-learn · Classification Models |
+| **AI / ML** | NLP · Plagiarism Detection · AI-Content Analysis · Scikit-learn · HuggingFace · Ollama |
 | **Deployment** | Vercel · Render · Firebase Hosting · GitHub Pages |
 
 ---
 
-## GitHub Stats
+## 📊 github stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sammmiksha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="155"/>
@@ -80,9 +113,9 @@ Real-time stock analysis platform integrating multiple financial APIs with inter
 
 ---
 
-## Education & Certifications
+## 🎓 education & certifications
 
-**BSc Information Technology** — Mumbai University &nbsp;·&nbsp; CGPI 9.15 &nbsp;·&nbsp; Sem 5 GPA: 9.2 &nbsp;·&nbsp; Sem 6 GPA: 9.8 &nbsp;·&nbsp; Expected April 2026
+**BSc Information Technology** — Mumbai University &nbsp;·&nbsp; CGPI 9.15 &nbsp;·&nbsp; Sem 5: 9.2 &nbsp;·&nbsp; Sem 6: 9.8 &nbsp;·&nbsp; Graduated April 2026
 
 **CS50x: Introduction to Computer Science** — Harvard University ✓
 
@@ -90,15 +123,15 @@ Real-time stock analysis platform integrating multiple financial APIs with inter
 
 ---
 
-## Currently Learning
+## 🔭 currently learning
 
-- NLP Engineering & Large Language Models
-- Machine Learning (Google ML Crash Course)
-- Scalable backend architecture & system design
+`NLP Engineering & Large Language Models` &nbsp;·&nbsp; `Machine Learning (Google ML Crash Course)` &nbsp;·&nbsp; `Scalable Backend Architecture & System Design`
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b39ddb,e091c0,90caf9&height=100&section=footer" />
 
 *Built with curiosity, consistency, and a love for meaningful software.*
 

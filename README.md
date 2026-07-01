@@ -9,6 +9,8 @@
 
 BSc IT graduate from Mumbai University **(CGPI 9.15)** building production-ready apps at the intersection of AI, backend systems, and modern web. Currently deepening expertise in NLP engineering and large language models.
 
+<sub>[projects](#-featured-projects) · [open source](#-open-source-contributions) · [stack](#️-tech-stack) · [stats](#-github-stats) · [snake](#-contribution-snake) · [education](#-education--certifications)</sub>
+
 </div>
 
 ---
@@ -113,6 +115,22 @@ AI-powered incident analysis tool that turns raw incident submissions into struc
 
 ---
 
+## 🐍 contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sammmiksha/sammmiksha/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sammmiksha/sammmiksha/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my github contribution graph" src="https://raw.githubusercontent.com/sammmiksha/sammmiksha/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> Generated automatically once a day — see [setup notes](#snake-setup) below if it's not showing yet.
+
+---
+
 ## 🎓 education & certifications
 
 **BSc Information Technology** — Mumbai University &nbsp;·&nbsp; CGPI 9.15 &nbsp;·&nbsp; Sem 5: 9.2 &nbsp;·&nbsp; Sem 6: 9.8 &nbsp;·&nbsp; Graduated April 2026
@@ -138,3 +156,14 @@ AI-powered incident analysis tool that turns raw incident submissions into struc
 **Mumbai, India · English · Hindi · Marathi**
 
 </div>
+
+<a id="snake-setup"></a>
+<!--
+  Setup for the contribution snake above:
+  1. In this repo, add the workflow file at .github/workflows/snake.yml
+     (ask Claude for "snake.yml" if you don't have it yet).
+  2. Push to main, or trigger it manually from the Actions tab.
+  3. It creates an "output" branch with the generated SVGs — that's what
+     the <picture> tag above points to. First run can take a minute.
+  4. It's on a daily cron, so it stays in sync with your latest activity.
+-->

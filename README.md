@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b39ddb,e091c0,90caf9&height=140&section=header&text=Samiksha%20Patil&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=full-stack%20developer%20%C2%B7%20backend-focused%20%C2%B7%20ai-integrated%20systems&descAlignY=78&descSize=13" />
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c5cbf?style=flat-square&logo=vercel&logoColor=white)](https://sammmiksha.github.io/samiksha-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammmikshapatil)
 [![GitHub](https://img.shields.io/badge/GitHub-2d1f5e?style=flat-square&logo=github&logoColor=white)](https://github.com/sammmiksha)
@@ -149,7 +147,6 @@ AI-powered incident analysis tool that turns raw incident submissions into struc
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b39ddb,e091c0,90caf9&height=100&section=footer" />
 
 *Built with curiosity, consistency, and a love for meaningful software.*
 
